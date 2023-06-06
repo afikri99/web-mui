@@ -7,5 +7,5 @@ category Web: <h3>Website Company Profile</h3>
 
 <p>Tools:
 <li>PHP Native</li>
-<li>Bootsrap 5</li>
+<li>Bootstrap 5</li>
 </p>
